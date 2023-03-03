@@ -1,0 +1,7 @@
+#!/bin/bash -p
+
+
+clear 
+
+
+java Travail.java $1
